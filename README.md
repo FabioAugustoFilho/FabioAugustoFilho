@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello, welcome to my GitHub profile. My name is Fábio Augusto Filho 👋
+I am a Systems Analysis and Development student at the City University of São Paulo.
 <!--
 **FabioAugustoFilho/FabioAugustoFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
